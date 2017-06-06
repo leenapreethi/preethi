@@ -5,7 +5,7 @@ int main()
 int n;
 printf("enter the integer:");
 scanf("%d",&n);
-if(n/2==0)
+if(n%2==0)
 {
 printf("%d is even number",n);
 }
