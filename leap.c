@@ -7,11 +7,11 @@ printf("enter the year:");
 scanf("%d",&year);
 if(year%4==0)
 {
-printf(" leap year");
+printf("%d is leap year",year);
 }
 else
 {
-printf(" not an leap year");
+printf("%d not an leap year",year);
 }
 return 0;
 getch();
