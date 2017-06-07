@@ -2,9 +2,9 @@
 #include<conio.h>
 int main()
 {
-int i;
-for(i=0;i<=5;i++);
-printf("Hello");
+int n;
+for(i=0;n<=5;i++);
+printf("\nHello\n");
 return 0;
 getch();
 }
