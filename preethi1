@@ -2,8 +2,7 @@
 #include<conio.h>
 int main()
 {
-int n;
-for(i=0;n<=5;i++);
+for(i=0;i<=5;i++);
 printf("\nHello\n");
 return 0;
 getch();
